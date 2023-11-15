@@ -1,15 +1,16 @@
 .qr{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 12%;
-    width: 22%;
+    
+    margin-left: 75.6%;
+    margin-top: 17%;
+    width: 360px;
 }
 
 
 
-body{
-    background-image: url('depositphotos_255199314-stock-photo-light-blue-gradient-background-blue.jpg');
+
+body {
+    background-image: url("qrscan.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
-     background-size: cover;
-}
+  }
+  
